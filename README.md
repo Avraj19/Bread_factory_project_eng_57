@@ -15,7 +15,7 @@ Topic includes:
 1. Click - https://github.com/Avraj19/Bread_factory_project_eng_57
 2. Click - "Clone or download" on the top left hand corner of the screen
 3. Click - "Download ZIP"
-4. extract ZIP file 
+4. Extract ZIP file 
 
 ## How to run on Desktop
 1. Open Bread_Factory_project_eng_57 file
